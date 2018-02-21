@@ -1,0 +1,12 @@
+commit 45d06f264c15aaafec0259ec60848e340a0a9e2d
+Author: Jerjy Elsouss <jerjy.souss@outlook.com>
+Date:   Wed Feb 21 14:59:21 2018 +0200
+
+    added examples
+
+commit 212245ab30a140d3cddabda16772b12ff8d938a5
+Author: Jerjy Elsouss <jerjy.souss@outlook.com>
+Date:   Wed Feb 21 14:47:44 2018 +0200
+
+    hi
+
